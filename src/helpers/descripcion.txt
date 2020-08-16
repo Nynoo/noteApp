@@ -1,0 +1,1 @@
+se colocaran funciones que el servidor podra utilizar. Se puede crear cualquier funcion que se reutilizara en cualquier parte.

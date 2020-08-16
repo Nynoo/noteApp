@@ -1,0 +1,2 @@
+se puede colocar variable de configuracion, del entorno, configuracion de autenticacion, osea, la configuracion de los modulos.
+por ejemplo se podria colocar el archivo database.js, pero se deja en /src por que es mas comodo.

@@ -1,0 +1,1 @@
+se inserta todo los archivos estaticos, imagenes, fuentes, archivos css, js, cualquier archivo que queramos inviar al navegador, para que lo pueda pintar por pantalla

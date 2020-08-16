@@ -1,0 +1,1 @@
+Sirve para crear las URl, o las rutas del servidor, por ejemplo la ruta login, register, notes para que el user agrege notas, etc.

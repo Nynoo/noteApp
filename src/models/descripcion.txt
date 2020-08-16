@@ -1,0 +1,1 @@
+para definir como van a lucir los datos dentro de la base de datos. Aqui se definira por ejemplo, las notas tendran un titulo, una descripcion, una fecha y un autor (user); el usuario tendra un nombre, fecha de creacion, user name, email, contraseña, etc.

@@ -1,0 +1,1 @@
+Almacena todos los archivos que se envian al navegados, las vistas html, pero ocuparemos handlebars, pero todo se tranformas en html
